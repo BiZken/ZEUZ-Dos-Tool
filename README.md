@@ -11,5 +11,5 @@ cd Desktop
 
 gcc ZEUZ.c -o ZEUZ
 
-USAGE : ./ZEUZ www.fakesite.com 80
+USAGE : ./ZEUZ www.targetdite.com 80
 
